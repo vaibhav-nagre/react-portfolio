@@ -1,0 +1,42 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#E73C7E, #23A6D5, #23D5AB, #893FA6",
+  "FirstName": "Vaibhav",
+  "MiddleName": "",
+  "LastName": "Nagre",
+  "devDesc": "Passionate about changing the world with technology.",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/vaibhav-nagre",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/vaibhav-nagre-93b71317b/",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/vaibhav.nagre.27/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "vaibhav.1427",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "Hello! My name is Vaibhav and I am a Software Engineer from California State University - Monterey Bay. I will be graduating with my Bachelor's degree in Computer Science in Fall 2020. In summer 2020, I am interning as a Web Application Developer at SeeFood App, and I cannot wait for my next journey. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of front-end development!",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "vaibhav-nagre",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4,
+  "showNavigationbar": true,
+  "showBlog": false
+}
