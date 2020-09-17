@@ -1,7 +1,11 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
+<<<<<<< HEAD
   "homepage": "http://vaibhav-nagre.github.io/react-portfolio",
+=======
+  "homepage": "",
+>>>>>>> f3e708c30b794fe9a35522e5535efe391f0df526
   "version": "0.1.0",
   "private": true,
   "author": {
